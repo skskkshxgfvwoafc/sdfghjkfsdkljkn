@@ -3,7 +3,7 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "14.05.2004"; // Дата рождения
+var birthdate = "14.05.2003"; // Дата рождения
 var fullname = "Серебряков Артем Дмитрович"; // ФИО
 var name = "Артем"; // Имя
 
